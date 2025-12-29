@@ -62,8 +62,6 @@ This category may have:
 •	
 •	Sports & Outdoors underperform in profit, suggesting an improvement in margin and product mix arrangement
 
-
-
 6.	Recommendations
 1.	Prioritize Toys and Electronics
 These categories deliver the highest impact:
