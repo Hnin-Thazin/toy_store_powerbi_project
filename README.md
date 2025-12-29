@@ -1,5 +1,8 @@
 # toy_store_powerbi_project
-Power Bi Dashboard Project including creating measures and relational models
+Power Bi Dashboard Project 
+
+Tools Used:
+Power BI, DAX, relation data model 
 
 Insights from Toy store KPI Report
 
